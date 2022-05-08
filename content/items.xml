@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+    <trinket description="More eccentricity" gfx="bigger_deck.png" name="Bigger Deck"/>
+    <passive cache ="luck"name="Super Cloth" description="Double effect ?!" gfx="super_cloth.png" devilprice="1"/>
+    <passive cache ="luck damage speed" name="Caaaaaaaaaarrrdddssss" description="They are everywhere" gfx="caaards.png" devilprice="2"/>
+</items>

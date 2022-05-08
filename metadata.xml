@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>So many cards</name>
+    <directory>so many cards</directory>
+    <id>2426038948</id>
+    <description>[h1]&quot;Do you like cards ?[/h1]
+-Yes !
+
+[h1]Do you REALLY like cards ?[/h1]
+-Huh...yes ...?&quot;
+
+[b][u]THIS MOD IS MADE FOR YOU !!![/u][/b]
+
+[b]The mod add 46 differents brand new cards with fun and crazy effects ![/b]
+
+[b][i]Since the mod includes an external item description support, all the description of the cards are in game ![/i][/b]
+
+[h1]Items and trinket ?[/h1]
+The mod also add 2 uniques and very special items and a trinket.
+
+[i]Bugs:[/i]
+If you found a bug, comment about it and I'll try to fix it as soon as possible !
+
+[u]The code has been made by caimez_
+All sprites have been made by Luxtro39[/u] 
+</description>
+    <version>1.10</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Cards"/>
+    <tag id="Pickups"/>
+    <tag id="Challenges"/>
+    <tag id="Graphics"/>
+</metadata>

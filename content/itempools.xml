@@ -1,0 +1,31 @@
+<ItemPools>
+  <Pool Name="treasure">
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+  <Pool Name="bossrush">
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+  <Pool Name="shop">
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+    <Item Name="Caaaaaaaaaarrrdddssss" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>  
+  <Pool Name="secret">
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+    <Item Name="Caaaaaaaaaarrrdddssss" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+  <Pool Name="demonBeggar">
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+  <Pool Name="redChest">
+    <Item Name="Caaaaaaaaaarrrdddssss" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+  <Pool Name="curse">
+    <Item Name="Caaaaaaaaaarrrdddssss" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+  <Pool Name="devil">
+    <Item Name="Super Cloth" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+    <Item Name="Caaaaaaaaaarrrdddssss" Weight="1" DecreaseBy="0.75" RemoveOn="0.1"/>
+  </Pool>
+
+</ItemPools>
