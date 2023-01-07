@@ -607,7 +607,7 @@ function So_Many_Cards:onCard(cardId,player)
     end
   elseif cardId == So_Many_Cards.Items.golden_h_c then
     SFXManager():Play(SoundEffect.SOUND_GOLD_HEART, 1.0 ,0, false ,1.0) 
-    player:AddGoldenHearts(3)
+    player:AddGoldenHearts(1)
     
   elseif cardId == So_Many_Cards.Items.what_c then
     
